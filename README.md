@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammed Fahid M</h1>
-<p align="center"><b>AI Data Engineer</b> · US healthcare data at 10B+ record scale · Bengaluru, India</p>
+<p align="center"><b>AI Data Engineer</b> · Bengaluru, India</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/fahidm"><img src="https://img.shields.io/badge/LinkedIn-fahidm-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
