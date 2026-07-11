@@ -41,18 +41,6 @@ I build the data infrastructure behind US healthcare compliance: ELT pipelines o
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
-### Production wins I'm proud of
-
-- **83% pipeline runtime reduction** (30 min → 5 min) — replaced a provider–member cross join with a geospatial bounding-box prefilter on Spark
-- **80% compute cost savings** on a pharma ETL engagement through architectural redesign
-- **100K+ provider profiles/month** enriched automatically with OpenAI + Gemini APIs (25% accuracy gain)
-- **70% faster dev-to-production cycle** — AWS Agent Kit + Databricks AI Dev Kit wired up as MCP servers via Claude Code
-- **1M+ routing requests/quarter** served by a Valhalla geospatial engine I containerized on EKS with auto-scaling
-
-### Currently
-
-- Building **RAG and agentic AI projects** ([rag_project](https://github.com/fahidnibu/rag_project)) and deepening LLM-augmented data engineering
-- Exploring vector databases and retrieval pipelines for production semantic search
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahidnibu&layout=compact&hide_border=true&theme=default" alt="Top languages">
