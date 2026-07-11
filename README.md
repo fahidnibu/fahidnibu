@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohammed Fahid M 👋</h1>
+<h1 align="center">Hi, I'm Mohammed Fahid M</h1>
 <p align="center"><b>AI Data Engineer</b> · US healthcare data at 10B+ record scale · Bengaluru, India</p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 I build the data infrastructure behind US healthcare compliance: ELT pipelines on **AWS EMR + PySpark** over **10B+ provider, member, and payer records**, a multi-product lakehouse on **Apache Iceberg + Delta Lake**, and **LLM-powered enrichment pipelines** running in production. Currently **Data Engineer II at HiLabs** (SaaS health data platform); previously life-sciences analytics at **ZS Associates**. IIT Kharagpur Dual Degree (B.Tech + M.Tech).
 
-### 🔧 What I work with
+### What I work with
 
 **Data & Lakehouse**
 
@@ -41,15 +41,15 @@ I build the data infrastructure behind US healthcare compliance: ELT pipelines o
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
-### 📈 Production wins I'm proud of
+### Production wins I'm proud of
 
-- ⚡ **83% pipeline runtime reduction** (30 min → 5 min) — replaced a provider–member cross join with a geospatial bounding-box prefilter on Spark
-- 💰 **80% compute cost savings** on a pharma ETL engagement through architectural redesign
-- 🤖 **100K+ provider profiles/month** enriched automatically with OpenAI + Gemini APIs (25% accuracy gain)
-- 🚀 **70% faster dev-to-production cycle** — AWS Agent Kit + Databricks AI Dev Kit wired up as MCP servers via Claude Code
-- 🗺️ **1M+ routing requests/quarter** served by a Valhalla geospatial engine I containerized on EKS with auto-scaling
+- **83% pipeline runtime reduction** (30 min → 5 min) — replaced a provider–member cross join with a geospatial bounding-box prefilter on Spark
+- **80% compute cost savings** on a pharma ETL engagement through architectural redesign
+- **100K+ provider profiles/month** enriched automatically with OpenAI + Gemini APIs (25% accuracy gain)
+- **70% faster dev-to-production cycle** — AWS Agent Kit + Databricks AI Dev Kit wired up as MCP servers via Claude Code
+- **1M+ routing requests/quarter** served by a Valhalla geospatial engine I containerized on EKS with auto-scaling
 
-### 🌱 Currently
+### Currently
 
 - Building **RAG and agentic AI projects** ([rag_project](https://github.com/fahidnibu/rag_project)) and deepening LLM-augmented data engineering
 - Exploring vector databases and retrieval pipelines for production semantic search
